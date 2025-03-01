@@ -1,6 +1,7 @@
-# Hi there, I'm Roba23! 👋
+# Hi there, I'm Robel! 👋
 
-I'm an Android developer, web developer, and passionate coder. I love building innovative apps using **Java** for Android and enjoy developing engaging web experiences with **Python**, **C**, and **JavaScript**. Coding isn't just my profession—it's also my hobby and a creative outlet that fuels my curiosity and drive for continuous learning.
+I'm an Android developer and a web developer who enjoys building innovative projects. I know how to code in **Python**, **C**, **JavaScript**, and **Java** for Android. For me, programming is just a hobby and a creative outlet that lets me explore new ideas and express my creativity.
+
 
 ---
 
