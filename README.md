@@ -1,6 +1,6 @@
 # Hi there, I'm Robel! 👋
 
-I'm an Android developer and a web developer who enjoys building innovative projects. I know how to code in **Python**, **C**, **JavaScript**, and **Java** for Android. For me, programming is just a hobby and a creative outlet that lets me explore new ideas and express my creativity.
+I'm a Full stack web  developer  who enjoys building innovative projects. I know how to code in **Python**, **C**, **JavaScript**, and **Java** for Android. For me, programming is a creative outlet that lets me explore new ideas and express my creativity.
 
 
 ---
