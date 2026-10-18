@@ -1,48 +1,47 @@
 # Hi there, I'm Robel! 👋
 
-I'm a Full stack web  developer  who enjoys building innovative projects. I know how to code in **Python**, **C**, **JavaScript**, and **Java** for Android. For me, programming is a creative outlet that lets me explore new ideas and express my creativity.
+I'm a passionate **Full Stack MERN Developer** who loves building performant, real-time, and user-centric web applications. Programming is my creative outlet, turning abstract ideas into interactive digital experiences. 
 
+🚀 **I am actively looking to collaborate on exciting open-source projects or innovative web applications!**
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Web Projects
 
-- **Egg Timer**  
-  A fun app that lets you set a timer and watch an egg hatch into a chicken!  
-  [View Repo](https://github.com/roba23/egg-timer)
+- **SocialHub**  
+  A real-time social networking web app featuring secure Passport.js cookie authentication, a friend request network, and live messaging powered by Socket.io and MongoDB.  
+  [View Repo](https://github.com/roba23/Soccial_Hub.git)
 
-- **Guess Who**  
-  A celebrity guessing game where you try to name the top IMDb celebrities.  
-  [View Repo](https://github.com/roba23/guess-who)
+- **Netflix Clone**  
+  A high-fidelity clone of the Netflix streaming platform, highlighting a responsive UI, user authentication, and dynamic media streaming integrations.  
+  [View Repo](https://github.com/roba23/netflix-clone.git)
 
-- **Memorable Places**  
-  An app that pans to your location and lets you save special spots by tapping on the map.  
-  [View Repo](https://github.com/roba23/memorable-places)
+- **Car Rental Platform**  
+  A comprehensive full-stack booking system allowing users to search, filter, and rent vehicles dynamically with a complete backend reservation engine.  
+  [View Repo](https://github.com/roba23/AA-Car-Rental.git)
 
 ---
 
 ## 🔧 Technologies & Tools
 
-- **Java** ☕
-- **Android SDK** 📱
-- **Google Maps API** 🗺️ (used in Memorable Places)
-- **Android Studio** & **Git**
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
+- **Backend:** Node.js, Express.js, Socket.io, Passport.js
+- **Database & State:** MongoDB, Mongoose, RESTful APIs
+- **Tools & Dev Environment:** Git, GitHub, VS Code, Postman, Nodemon
 
 ---
 
 ## 📊 GitHub Stats
 
-![Roba23's GitHub stats](https://github-readme-stats.vercel.app/api?username=roba23&show_icons=true&theme=tokyonight)
+![Robel's GitHub stats](https://github-readme-stats.vercel.app/api?username=roba23&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🌟 Connect with Me
 
-- [LinkedIn](https://www.inkedin.com/in/robel-gebremariam-6b84a2242)  
-
-
-Feel free to reach out if you'd like to collaborate or just chat about tech! 😊
+- 💼 [LinkedIn](https://linkedin.com)
+- 📧 Feel free to drop a message if you'd like to team up or just talk tech! 
 
 ---
-"Talk is cheap. Show me the code."
+"Talk is cheap. Show me the code."  
 — Linus Torvalds
