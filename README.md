@@ -39,7 +39,7 @@ I'm a passionate **Full Stack MERN Developer** who loves building performant, re
 
 ## 🌟 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com)
+- 💼 [LinkedIn]()
 - 📧 Feel free to drop a message if you'd like to team up or just talk tech! 
 
 ---
